@@ -1,0 +1,2 @@
+# Udacity-pixel-art-maker
+This project was submitted to Udacity during their Intro to Programming Nanodegree course. It is a pixel art maker web app built using HTML, CSS, and JavaScript. A user can choose the size of their canvas and then apply any color they choose to the canvas by simply clicking on the square they want to change. The canvas can be cleared again by clicking the Submit button, which creates a new canvas.
